@@ -10,8 +10,8 @@
 9. What are indexing and slicing in Python
 10. What is the official Python coding style and how to check your code with pycodestyle
 
-###Zen of Python###
-####The Zen of Python, by Tim Peters####
+### Zen of Python
+#### The Zen of Python, by Tim Peters
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
@@ -32,7 +32,7 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 
-### Author's Disclaimer ###
+### Author's Disclaimer
 Welcome to the Python world!
 
 The first projects are more "C-oriented" - no tricks, no funky syntax - simple!
