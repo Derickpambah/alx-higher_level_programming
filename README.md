@@ -1,4 +1,4 @@
-##Learning Objectives##
+% Learning Objectives
 1. Why Python programming is awesome
 2. Who created Python
 3. Who is Guido van Rossum
@@ -32,7 +32,7 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 
-###Author's Disclaimer###
+### Author's Disclaimer ###
 Welcome to the Python world!
 
 The first projects are more "C-oriented" - no tricks, no funky syntax - simple!
